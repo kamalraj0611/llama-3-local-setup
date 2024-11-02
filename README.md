@@ -72,12 +72,6 @@ Your system should meet these requirements for a smooth experience, though some 
 
 ---
 
-## 📺 Video Walkthrough
-
-If you prefer a visual guide, watch the video below for a detailed step-by-step demonstration.
-
----
-
 ## Troubleshooting
 
 - **Installation Issues**: Ensure Docker and Ollama are running correctly.
